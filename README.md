@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emreakbasss
 - 👀 I’m interested in software.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C# and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
