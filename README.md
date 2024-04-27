@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Akbaş</h1>
 <h3 align="center">Hi,I'm Emre. I'm improving myself coding.</h3>
 
-- 🌱 I’m currently learning **Unity,python**
+- 🌱 I’m currently learning **Unity and Python**
 
 - 📫 How to reach me **e.akbas@outlook.com.tr**
 
