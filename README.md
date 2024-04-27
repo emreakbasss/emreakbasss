@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Akbaş</h1>
-<h3 align="center">Hi,I'm Emre. I'm improving myself coding.</h3>
+<h3 align="center"> I'm improving myself coding.</h3>
 
 - 🌱 I’m currently learning **Unity and Python**
 
